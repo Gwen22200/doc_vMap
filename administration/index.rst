@@ -6,6 +6,5 @@ Administration de vMap
 
 
  configuration
- users
  calques_cartes
  mapserver
