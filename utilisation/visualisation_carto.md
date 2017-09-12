@@ -11,9 +11,12 @@ auxquels il appartient.
 
 ## 2. La gestion des cartes
 
-Le bouton Carte ![](../images/bouton_carte.png) permet de déployer la table des matières, la légende et les jeux de données affichés sur la carte en cours et donne accès au Gestionnaire des cartes. 
+Le bouton Carte ![](../images/bouton_carte.png) permet de déployer la table des matières, la légende et les jeux de données affichés sur la carte en cours et donne accès au Gestionnaire des cartes. La liste des cartes disponibles pour l'utilisateur connecté dépend du ou des groupes auxquels il appartient.
 
-Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y opérer des opérations d'ajout de couches à la volée. 
+Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y opérer des opérations d'ajout de couches à la volée.
+
+
+![](../images/gestionnaire_carte.png)
 
 
 
