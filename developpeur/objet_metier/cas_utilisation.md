@@ -117,7 +117,7 @@ bouton *"Test"* pour tester la source de données.
 
 Une fois la source de données renseignée, on peut créer un attribut de
 type "*Liste déroulante*" (ou autre type de liste) et choisir la source
-de données mise en place précédemment.
+de données mise en place précédemment. 
 
 Une liste est définie par une "*Clé*" qui est la valeur retournée
 lorsqu'on sélectionne un élément de la liste et d'un "*Libellé*" qui est
@@ -141,7 +141,7 @@ données.
 
 Chaque entité est composée d'une **clé** qui est la valeur retenue et
 d'un **libellé** qui est le contenu affiché. Les deux sont séparés (sans
-espace) par le caractère "|" et on peut répéter l'opération autant de
+espace) par le caractère "|". On peut répéter l'opération autant de
 fois que l'on veut, en allant à la ligne pour chaque élément.
 
 ![](../../images/exemple_studio_datasource_4.png)
