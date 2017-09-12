@@ -201,6 +201,6 @@ type d'attribut.
 
 #### 3.2.3. Utilisation du studio
 
-Pour comprendre comment utiliser le studio vous pouvez aller voir le
+Pour comprendre comment utiliser le studio consulter le
 document [Cas concrets d'utilisation du studio dans
 vMap](cas_utilisation_studio.html)
