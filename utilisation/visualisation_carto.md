@@ -20,7 +20,8 @@ Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y op�
 
 
 
-## 3. Volet carte = outils d'affichage, de sélection, d'interrogation et de filtre
+## 3. Outils d'affichage, de sélection, d'interrogation et de filtre du volet Carte
+
 
 On retrouve dans la Fenêtre "Carte" l'ensemble des fonctionnalités
 classiques d'un web SIG mais aussi plusieurs fonctionnalités propres à
