@@ -32,7 +32,7 @@ vMap :
     effectué avec la souris)
 -   L'échelle et l'overview en bas à gauche
 -   Les coordonnées de la souris en bas à droite
--   Les listes des outils de contrôle en haut à droite ![](../images/boutons_outils.png). Les outils de
+-   Les listes des outils de contrôle en haut à droite ![](../images/bouton_outils.png). Les outils de
     contrôles peuvent être activés ou désactivés à la volée par
     l'utilisateur
 -   La liste des modèles d'impressions disponibles pour
