@@ -11,10 +11,11 @@ auxquels il appartient.
 
 ## 2. La gestion des cartes
 
-Le bouton Carte ![](../images/bouton_carte.png) permet de déployer la table des matières, la légende et les jeux de données affichés sur la carte en cours et donne accès au Gestionnaire des cartes. La liste des cartes disponibles pour l'utilisateur connecté dépend du ou des groupes auxquels il appartient.
-
-Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y opérer des opérations d'ajout de couches à la volée.
-
+Le bouton Carte ![](../images/bouton_carte.png) permet de déployer : 
+- la table des matières
+- la légende 
+- les jeux de données affichés sur la carte en cours
+- le Gestionnaire des cartes. Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y opérer des opérations d'ajout de couches à la volée.
 
 ![](../images/gestionnaire_carte.png)
 
@@ -31,7 +32,7 @@ vMap :
     effectué avec la souris)
 -   L'échelle et l'overview en bas à gauche
 -   Les coordonnées de la souris en bas à droite
--   Les listes des outils de contrôle en haut à droite. Les outils de
+-   Les listes des outils de contrôle en haut à droite ![](../images/boutons_outils.png). Les outils de
     contrôles peuvent être activés ou désactivés à la volée par
     l'utilisateur
 -   La liste des modèles d'impressions disponibles pour
