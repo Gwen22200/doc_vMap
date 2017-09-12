@@ -146,7 +146,7 @@ Exemple:
 #### 3.2.1 Configuration des cartes à utiliser dans le template HTML
 
 On peut inclure des cartes dans les formulaires en utilisant des objets
-de type "map" avec les paramètres suivants :
+de type "map" avec les paramètres suivants : 
 
 -   target : cible sur laquelle doit se poser la carte ("\#" +
     l'identifiant de votre balise image)
