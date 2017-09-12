@@ -36,7 +36,7 @@ vMap :
     contrôles peuvent être activés ou désactivés à la volée par
     l'utilisateur
 -   La liste des modèles d'impressions disponibles pour
-    l'utilisateur connecté ![](../images/bouton_modeles_impression.png). L'ensemble des champs paramétrables pour les
+    l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
     impressions sont définis par l'administrateur dans le modèle que ce
     dernier aura mis en place. Dans l'exemple ci dessus, l'impression
     requiert trois paramètres, un titre, un sous-titre et une source
