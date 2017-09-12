@@ -457,7 +457,7 @@ Parmi les fichiers indispensables, se trouvent les fichiers suivants :
 ### 3.2. Création de la première ressource
 
 Dans cet exemple, nous cherchons à créer la ressource "villes" qui
-permettra de lister les villes contenues dans la table "f_villes_l93"
+permet de lister les villes contenues dans la table "f_villes_l93"
 installée par défaut avec vMap.
 
 Chaque ressource est définie par deux fichiers PHP :
@@ -469,7 +469,7 @@ Chaque ressource est définie par deux fichiers PHP :
 
 #### 3.2.1 La ressource unitaire (Ville.class.inc)
 
-Il s'agit d'une classe PHP qui devra au moins contenir les éléments
+Il s'agit d'une classe PHP qui doitau moins contenir les éléments
 suivants :
 
 ##### 3.2.1.1 Inclusions des fichiers
