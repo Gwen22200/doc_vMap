@@ -13,11 +13,13 @@ auxquels il appartient.
 
 Le bouton Carte ![](../images/bouton_carte.png) permet de déployer la table des matières, la légende et les jeux de données affichés sur la carte en cours et donne accès au Gestionnaire des cartes. 
 
+Le gestionnaire de carte permet de sélectionner la carte à afficher et d'y opérer des opérations d'ajout de couches à la volée. 
+
 
 
 ## 3. Les outils d'affichage, de sélection, d'interrogation et de filtre
 
-On retrouve dans le volet "Carte" l'ensemble des fonctionnalités
+On retrouve dans la Fenêtre "Carte" l'ensemble des fonctionnalités
 classiques d'un web SIG mais aussi plusieurs fonctionnalités propres à
 vMap :
 
