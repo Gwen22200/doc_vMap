@@ -38,7 +38,7 @@ vMap :
 -   La liste des modèles d'impressions disponibles pour
     l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
     impressions sont définis par l'administrateur dans un modèle préalablement configuré. En savoir plus sur les modèles d'impression. 
--   Un outil d'insertion d'une donnée
+-   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png).
 -   Un outil de sélection multiple qui se découpe en deux possibilités.
     Une sélection graphique à partir des outils point, ligne, polygone
     et cercle; ou une sélection attributaire à partir d'un formulaire
