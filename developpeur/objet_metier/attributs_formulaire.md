@@ -123,7 +123,7 @@ l'affichage des outils propres aux cartes.
 
 Un attribut de type Champ caché permet de masquer un attribut. Il est
 exploité dans le formulaire mais n'est pas apparent. Nommer le paramètre
-et définir la valeur à exploiter.
+et définir la valeur à exploiter. 
 
 ### 2.7. Couleur
 
@@ -165,6 +165,7 @@ défaut.
 ### 2.10. Document - objet métier
 
 ### 2.12. Décimal
+Un attribut de type décimal permet d'insérer dans un formulaire un chiffre décimale. 
 
 ### 2.13. Editeur de code CodeMirror
 
