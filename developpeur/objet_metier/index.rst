@@ -1,11 +1,11 @@
 
 .. vmap_doc documentation master file
 
-Objet métiers
+Objets métiers
 ====================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
 
  objet_metier
  rapports_vmap
