@@ -43,7 +43,7 @@ vMap :
     
 -   Un outil de sélection simple ![](../images/bouton_selection_simple.png)  permettant d'obtenir les informations attributaire d'un seul et unique objet sélectionné géographiquement. Pour cela, un objet métier doit obligatoirement être associé à un calque de la carte. En savoir plus sur les objets métier. 
 -   Un outil de mesure ![](../images/bouton_mesure.png) qui permet le calcul de longueurs, superficies et mesures des géométries. Il permet l'export des mesures au format csv. 
--   Un outil de localisation à partir des coordonnées X et Y et d'un système de projection.
+-   Un outil de localisation ![](../images/bouton_xy.png)  à partir des coordonnées X et Y et d'un système de projection.
 -   Un outil de géolocalisation.
 -   Un outil pour centrer la carte sur l'étendue maximale. L'étendue
     maximale d'une carte diffère en fonction du système de projection.
