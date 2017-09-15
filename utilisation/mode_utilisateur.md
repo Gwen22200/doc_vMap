@@ -1,5 +1,9 @@
-Le mode utilisateur permet à l'utisateur connecté d'accéder et/ou modifier à ses paramètres personnels de connexion. 
-Par cet interface, il peut éditer : 
+
+
+
+Le mode utilisateur permet à l'utilisateur connecté d'accéder à son profil de connexion  et de modifier ses paramètres de  connexion. 
+
+Par cette interface, il peut éditer : 
  - son E-mail
  - sa société
  - son service d'appartenance
