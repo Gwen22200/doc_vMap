@@ -32,7 +32,7 @@ vMap :
 -   L'échelle et l'overview en bas à gauche
 -   Les coordonnées de la souris en bas à droite
 -   Les listes des outils de contrôle en haut à droite ![](../images/bouton_outils.png). Les outils de
-    contrôles peuvent être activés ou désactivés à la volée par l'utilisateur
+    contrôle peuvent être activés ou désactivés à la volée par l'utilisateur
 -   La liste des modèles d'impressions disponibles pour
     l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
     impressions sont définis, préalablement par l'administrateur, dans un modèle configuré. En savoir plus sur les modèles      d'impression. 
