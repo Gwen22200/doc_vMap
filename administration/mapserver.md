@@ -1,3 +1,5 @@
 # Mode Mapserver
 
-Le mode MapServer permet la publication de flux WMS. 
+Le mode MapServer permet la publication de flux WMS avec MapServer. 
+
+
