@@ -6,3 +6,5 @@ Utilisation de vMap
 
   
  visualisation_carto
+ mode_utilisateur
+ 
