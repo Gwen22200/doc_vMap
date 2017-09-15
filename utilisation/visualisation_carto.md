@@ -36,11 +36,11 @@ vMap :
 -   La liste des modèles d'impressions disponibles pour
     l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
     impressions sont définis, préalablement par l'administrateur, dans un modèle configuré. En savoir plus sur les modèles      d'impression. 
--   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png).
--   Un outil de sélection multiple qui se découpe en deux possibilités.
-    Une sélection graphique à partir des outils point, ligne, polygone
-    et cercle; ou une sélection attributaire à partir d'un formulaire
-    filtrable et triable. Pour cela, un objet métier doit obligatoirement être associé à un calque de la carte.EN savoir plus sur les objets métier. 
+-   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png). Il donne accès au formulaire de création d'objet. Poiur cela l'adminsitrateur doit avoir préalablement paramétré un objet métier associé au calque de la donnée. EN savoir pous sur les objets métier. 
+-   Un outil de sélection multiple ![](../images/bouton_insertion.png) qui donne accès a 2 modes de recherche : 
+    - Une sélection graphique à partir des outils point, ligne, polygone et cercle
+    - une sélection attributaire à partir d'un formulaire  filtrable et triable. Un objet métier doit obligatoirement avoir été associé au calque de la carte. En savoir plus sur les objets métier. 
+    
 -   Un outil de sélection simple permettant d'obtenir les informations
     attributaire d'un seul et unique objet sélectionné géographiquement.
    Pour cela, un objet métier doit obligatoirement être associé à un
