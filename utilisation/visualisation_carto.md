@@ -21,33 +21,30 @@ Le bouton Carte ![](../images/bouton_carte.png) permet de déployer :
 
 
 
-## 3. Outils d'affichage, de sélection, d'interrogation et de filtre du volet Carte
+## 3.Volet carte : Outils d'affichage, de sélection, d'interrogation et de filtre 
 
 
 On retrouve dans la Fenêtre "Carte" l'ensemble des fonctionnalités
 classiques d'un web SIG mais aussi plusieurs fonctionnalités propres à
 vMap :
 
--   La barre de zoom sur le côté gauche (le zoom peut aussi être
-    effectué avec la souris)
+-   La barre de zoom sur le côté gauche (le zoom peut aussi être effectué via la souris)
 -   L'échelle et l'overview en bas à gauche
 -   Les coordonnées de la souris en bas à droite
 -   Les listes des outils de contrôle en haut à droite ![](../images/bouton_outils.png). Les outils de
-    contrôles peuvent être activés ou désactivés à la volée par
-    l'utilisateur
+    contrôles peuvent être activés ou désactivés à la volée par l'utilisateur
 -   La liste des modèles d'impressions disponibles pour
     l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
-    impressions sont définis par l'administrateur dans un modèle préalablement configuré. En savoir plus sur les modèles d'impression. 
+    impressions sont définis, préalablement par l'administrateur, dans un modèle configuré. En savoir plus sur les modèles      d'impression. 
 -   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png).
 -   Un outil de sélection multiple qui se découpe en deux possibilités.
     Une sélection graphique à partir des outils point, ligne, polygone
     et cercle; ou une sélection attributaire à partir d'un formulaire
-    filtrable et triable. Prérequis : Un objet métier doit
-    obligatoirement être associé à un calque de la carte.
+    filtrable et triable. Pour cela, un objet métier doit obligatoirement être associé à un calque de la carte.EN savoir plus sur les objets métier. 
 -   Un outil de sélection simple permettant d'obtenir les informations
     attributaire d'un seul et unique objet sélectionné géographiquement.
-    Prérequis : Un objet métier doit obligatoirement être associé à un
-    calque de la carte.
+   Pour cela, un objet métier doit obligatoirement être associé à un
+    calque de la carte. En savoir plus sur les objets métier. 
 -   Un outil de mesure
 -   Un outil de localisation à partir des coordonnées X et Y et d'un
     système de projection.
