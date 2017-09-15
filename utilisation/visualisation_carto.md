@@ -39,7 +39,7 @@ vMap :
 -   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png). Il donne accès au formulaire de création d'objet. Poiur cela l'adminsitrateur doit avoir préalablement paramétré un objet métier associé au calque de la donnée. EN savoir pous sur les objets métier. 
 -   Un outil de sélection multiple ![](../images/bouton_selection_multi.png) qui donne accès a 2 modes de recherche : 
     - Une sélection graphique à partir des outils point, ligne, polygone et cercle
-    - une sélection attributaire à partir d'un formulaire  filtrable et triable. Un objet métier doit obligatoirement avoir été associé au calque de la carte. En savoir plus sur les objets métier. 
+    - une sélection attributaire à partir d'un requêteur. Un objet métier doit obligatoirement avoir été associé au calque de la carte. En savoir plus sur les objets métier. 
     
 -   Un outil de sélection simple permettant d'obtenir les informations
     attributaire d'un seul et unique objet sélectionné géographiquement.
