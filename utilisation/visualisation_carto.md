@@ -43,14 +43,11 @@ vMap :
     
 -   Un outil de sélection simple ![](../images/bouton_selection_simple.png)  permettant d'obtenir les informations attributaire d'un seul et unique objet sélectionné géographiquement. Pour cela, un objet métier doit obligatoirement être associé à un calque de la carte. En savoir plus sur les objets métier. 
 -   Un outil de mesure ![](../images/bouton_mesure.png) qui permet le calcul de longueurs, superficies et mesures des géométries. Il permet l'export des mesures au format csv. 
--   Un outil de localisation ![](../images/bouton_xy.png)  à partir des coordonnées X et Y et d'un système de projection.
+-   Un outil de localisation ![](../images/bouton_xy.png) à partir des coordonnées X et Y et d'un système de projection.
 -   Un outil de géolocalisation ![](../images/bouton_geolocalisation.png) qui permet de centrer la carte sur la localisation de l'utilisateur en cours.
 -   Un outil pour centrer la carte sur l'étendue maximale ![](../images/bouton_etendue_max.png). L'étendue maximale d'une carte diffère en fonction du système de projection. Si la carte est en Lambert 93, l'étendue maximale de la carte est la France.
 -   Un outil pour rafraichir les couches de la carte sans avoir à
     recharger l'application
 -   Un outil pour recentrer la carte sur l'emprise par défaut définie
     par l'administrateur
--   Et enfin un outil de localisation. Par défaut l'outil de
-    localisation fonctionne avec la couche Open Street Map. Par
-    ailleurs, si un objet métier est associé à un calque de la carte, un
-    choix sera disponible entre plusieurs localisations.
+-   Un outil de localisation par la saisie d'adresse. Par défaut l'outil fonctionne avec la couche Open Street Map. Si un objet métier est associé à un calque de la carte, un choix sera disponible entre plusieurs localisations.
