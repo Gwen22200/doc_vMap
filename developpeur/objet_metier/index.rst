@@ -5,7 +5,7 @@ Objets métiers
 ====================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
 
  objet_metier
  rapports_vmap
