@@ -36,7 +36,7 @@ vMap :
 -   La liste des modèles d'impressions disponibles pour
     l'utilisateur connecté ![](../images/bouton_modele_impression.png). L'ensemble des champs paramétrables pour les
     impressions sont définis, préalablement par l'administrateur, dans un modèle configuré. En savoir plus sur les modèles      d'impression. 
--   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png). Il donne accès au formulaire de création d'objet. Poiur cela l'adminsitrateur doit avoir préalablement paramétré un objet métier associé au calque de la donnée. EN savoir pous sur les objets métier. 
+-   Un outil d'insertion d'une donnée ![](../images/bouton_insertion.png). Il donne accès au formulaire de création d'objet. Pour cela l'administrateur doit avoir préalablement paramétré un objet métier associé au calque de la donnée. En savoir pous sur les objets métier. 
 -   Un outil de sélection multiple ![](../images/bouton_selection_multi.png) qui donne accès a 2 modes de recherche : 
     - Une sélection graphique à partir des outils point, ligne, polygone et cercle
     - une sélection attributaire à partir d'un requêteur. Un objet métier doit obligatoirement avoir été associé au calque de la carte. En savoir plus sur les objets métier. 
@@ -46,8 +46,6 @@ vMap :
 -   Un outil de localisation ![](../images/bouton_xy.png) à partir des coordonnées X et Y et d'un système de projection.
 -   Un outil de géolocalisation ![](../images/bouton_geolocalisation.png) qui permet de centrer la carte sur la localisation de l'utilisateur en cours.
 -   Un outil pour centrer la carte sur l'étendue maximale ![](../images/bouton_etendue_max.png). L'étendue maximale d'une carte diffère en fonction du système de projection. Si la carte est en Lambert 93, l'étendue maximale de la carte est la France.
--   Un outil pour rafraichir les couches de la carte sans avoir à
-    recharger l'application
--   Un outil pour recentrer la carte sur l'emprise par défaut définie
-    par l'administrateur
+-   Un outil pour rafraichir les couches de la carte sans avoir à recharger l'application.
+-   Un outil pour recentrer la carte sur l'emprise par défaut définie par l'administrateur.
 -   Un outil de localisation par la saisie d'adresse. Par défaut l'outil fonctionne avec la couche Open Street Map. Si un objet métier est associé à un calque de la carte, un choix sera disponible entre plusieurs localisations.
