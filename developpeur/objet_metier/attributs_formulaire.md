@@ -169,12 +169,13 @@ Un attribut de type Document - objet métier est un champ de chargement de docum
 
 Nommer le paramètre et le libellé à afficher et définir les extensions de documents pouvant être téléchargés. 
 
+Définir le format des documents téléchargeables en indiquant les extensions possibles séparées par un |. 
+
 La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il peut être téléchargé. 
 
-Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour piuvoir les associer à un même attribut. 
+ Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
-Obtenir un exemple d'insertion de champ de type Document. ![](../cas_utilisation.md)
-
+Obtenir un exemple d'insertion de champ de type Document. 
 
 
 ### 2.12. Décimal
