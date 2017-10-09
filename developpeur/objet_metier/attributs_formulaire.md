@@ -157,12 +157,22 @@ défaut.
 
 Un attribut de type Date et heure insère une date sous la forme
 jj/mm/aaaa hh:mm. Un calendrier et une montre facilite la saisie la date
-et del'heure dans le formulaire.
+et de l'heure dans le formulaire.
 
 Nommer le paramètre et le libellé à afficher et définir la valeur par
 défaut.
 
 ### 2.10. Document - objet métier
+Un attribut de type Document - objet métier est un champ de chargement de documents. 
+
+![](../../images/c_formulaire_carteOSM.png)
+
+Nommer le paramètre et le libellé à afficher et définir les extensions de documents pouvant être téléchargés. 
+
+La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il peut être téléchargé. 
+
+Obtenir un exemple d'insertion de champ de type Document. 
+
 
 ### 2.12. Décimal
 Un attribut de type décimal permet d'insérer dans un formulaire un chiffre décimale. 
