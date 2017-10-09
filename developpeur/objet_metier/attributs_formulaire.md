@@ -173,7 +173,8 @@ La boîte à cocher "Uniquement en consultation" indique si le document est uniq
 
 Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour piuvoir les associer à un même attribut. 
 
-Obtenir un exemple d'insertion de champ de type Document. 
+Obtenir un exemple d'insertion de champ de type Document. ![](../cas_utilisation.md)
+
 
 
 ### 2.12. Décimal
