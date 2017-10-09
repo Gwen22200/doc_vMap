@@ -6,6 +6,7 @@ Objets métiers
 
 .. toctree::
    :maxdepth: 4
+   
 Les objets métiers dans Vmap permettent l'interrogation et l'édition des objets stockés en base de données. 
 
 
