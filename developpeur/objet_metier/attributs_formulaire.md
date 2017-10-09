@@ -165,7 +165,7 @@ défaut.
 ### 2.10. Document - objet métier
 Un attribut de type Document - objet métier est un champ de chargement de documents. 
 
-![](../../images/c_formulaire_carteOSM.png)
+![](../../images/document.png)
 
 Nommer le paramètre et le libellé à afficher et définir les extensions de documents pouvant être téléchargés. 
 
