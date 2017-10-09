@@ -1,4 +1,4 @@
-# Cas concrets d'utilisation dans vMap
+# Exemples de personnalisation de formulaires dans vMap
 
 Ce document décrit des exemples d'utilisation du studio utiles pour
 comprendre son fonctionnement ainsi que l'intégralité de l'application.
