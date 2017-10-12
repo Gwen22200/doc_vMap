@@ -169,7 +169,9 @@ Un attribut de type Document - objet métier est un champ de chargement de docum
 
 Nommer le paramètre et le libellé à afficher et définir les extensions de documents pouvant être téléchargés. 
 
-Définir le format des documents téléchargeables en indiquant les extensions possibles séparées par un |. 
+![](../../images/formulaire_document.png)
+
+Définir le format des documents téléchargeables en indiquant leurs extensions possibles séparées par un |. 
 
 La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il peut être téléchargé. 
 
