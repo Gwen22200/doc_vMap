@@ -236,7 +236,7 @@ graphiquement via les boites à cocher de la zone "*Définition*".
 
 ![](../../images/exemple_studio_carte_3.png)
 
-## 5. Personnalisation d'un formulaire : insertion d'un champ de chargement de Document/Image
+[doc]## 5. Personnalisation d'un formulaire : insertion d'un champ de chargement de Document/Image
 
 Il est possible d'associer des documents ainsi que des images aux
 enregistrements liés à un objet métier en utilisant respectivement les
