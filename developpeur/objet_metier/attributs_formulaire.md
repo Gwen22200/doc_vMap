@@ -216,6 +216,9 @@ Définir ensuite les paramètres du lien :
 -   Cible : si laissé vide, la page s'ouvre dans un nouvel onglet.
 -   Valeur : adresse du lien
 
+Obtenir un [exemple d'insertion d'attribut de type lien](cas_utilisation.md#2-personnalisation-dun-formulaire--insertion-dun-attribut-de-type-lien)
+
+
 ### 2.23. Liste
 
 ### 2.24. Texte
