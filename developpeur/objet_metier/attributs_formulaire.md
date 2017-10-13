@@ -2,7 +2,7 @@
 
 ## 1. Définition
 
-[doc]
+
 
 Les attributs d'un formulaire peuvent être créés, édités et supprimés
 dans le studio. Certains attributs exploitent des valeurs issues de base
@@ -179,7 +179,7 @@ La boîte à cocher "Uniquement en consultation" indique si le document est uniq
 
  Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
-Obtenir un [exemple d'insertion d'attribut de type Document][doc]
+Obtenir un [exemple d'insertion d'attribut de type Document](../cas_utilisation.md)
 
 
 ### 2.12. Décimal
