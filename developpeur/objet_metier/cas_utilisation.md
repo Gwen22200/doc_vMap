@@ -37,14 +37,13 @@ fois, ceci peut être utile pour afficher un label.
 Il est souvent utile, lors de l'utilisation d'un objet métier, de mettre
 en place des liens vers d'autres plateformes.
 
-Dans vMap ceci est possible à deux endroits distincts :
+Dans vMap ceci se fait à deux endroits distincts :
 
 ### 2.1. Dans l'info-bulle d'un objet
 
 ![](../../images/exemple_studio_lien_1.png)
 
-Il faut modifier l'attribut **SQL Summary** dans la définition de
-l'objet métier et utiliser des balises *"bo_link"*.
+Lorsd de la déclaration de l'objet métier, modifier l'attribut **SQL Summary** et utiliser des balises *"bo_link"*.
 
 Exemple :
 
