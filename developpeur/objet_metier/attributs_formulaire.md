@@ -169,7 +169,7 @@ Un attribut de type Document - objet métier est un champ de chargement de docum
 
 ![](../../images/document.png)
 
-Nommer le paramètre et le libellé à afficher et définir les extensions de documents pouvant être téléchargés. 
+Nommer le paramètre et le libellé à afficher. 
 
 ![](../../images/formulaire_document.png)
 
@@ -205,6 +205,9 @@ Obtenir un  [exemple d'insertion d'attribut de type grille objet métier](cas_ut
 ### 2.17. Image Objet métier
 
 ### 2.18. Image URL
+
+Un attribut de type image URL permet d'insérer dans un formulaire un attribut de 
+
 
 ### 2.19. Interface bouton
 
