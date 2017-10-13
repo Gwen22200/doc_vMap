@@ -5,7 +5,7 @@
 Objets métiers et formulaires
 ====================================
 
-Les objets métiers dans Vmap permettent l'interrogation et l'édition des objets stockés en base de données. Une fois déclaré, un objet métier est construit dans le studio dans lequel sont spécifiés chacun des formulaires d'affichage, de recherche, d'insertion et d'édition. 
+Les objets métiers dans Vmap permettent l'interrogation et l'édition des objets stockés en base de données. Une fois déclaré, un objet métier est construit dans le studio dans lequel sont spécifiés les formulaires d'affichage, de recherche, d'insertion et d'édition. 
 
 .. toctree::
    :maxdepth: 4
