@@ -183,7 +183,7 @@ Obtenir un [exemple d'insertion d'attribut de type Document](cas_utilisation.md#
 
 
 ### 2.12. Décimal
-Un attribut de type décimal permet d'insérer dans un formulaire un chiffre décimale. 
+Nommer l'attribut  et le libellé qui sera affiché dans le formulaire  et définir la valeur par défaut. Définir si ce paramètre est obligatoire ou pas en cochant la case Requis. 
 
 ### 2.13. Editeur de code CodeMirror
 
