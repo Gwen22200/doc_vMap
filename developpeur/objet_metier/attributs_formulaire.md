@@ -191,6 +191,13 @@ Un attribut de type décimal permet d'insérer dans un formulaire un chiffre dé
 
 ### 2.15. Grille objet métier
 
+Un attribut de type Grille objet métier permet d'associer à un élément un sous élément. La grille objet métier permet l'insertion d'objet enfant associé à un objet parent. 
+
+Nommer le paramètre et le libellé à afficher, puis sélectionner l'objet métier enfant et définir l' attributs parent et enfant surlesquels reposent l'ascendance. 
+
+
+
+
 ### 2.16. Grille section vitis
 
 ### 2.17. Image Objet métier
