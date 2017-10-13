@@ -195,7 +195,9 @@ Un attribut de type Grille objet métier permet d'associer à un élément un so
 
 Nommer le paramètre et le libellé à afficher, puis sélectionner l'objet métier enfant et définir l' attributs parent et enfant surlesquels reposent l'ascendance. 
 
+![](../../images/exemple_studio_grille_2.png)
 
+Obtenir un  [exemple d'insertion d'attribut de type grille objet métier](cas_utilisation.md#6-personnalisation-dun-formulaire--insertion-dune-grille-de-sous-objets)
 
 
 ### 2.16. Grille section vitis
