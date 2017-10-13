@@ -2,6 +2,8 @@
 
 ## 1. Définition
 
+[doc]
+
 Les attributs d'un formulaire peuvent être créés, édités et supprimés
 dans le studio. Certains attributs exploitent des valeurs issues de base
 de données ou de services web, d'autres sont des composants de mise en
