@@ -253,7 +253,7 @@ Obtenir un [exemple d'insertion d'attribut de type lien](cas_utilisation.md#2-pe
 
 3 types de listes sont paramétrables dans vMap. Le gestionnaire de source de données permet une configuration fine des listes, de leurs sources et leurs modalités d'affichage. 
 
-Obtenir un [exemple d'insertion d'attribut de type liste](cas_utilisation.html#utilisation-du-gestionnaire-de-source-de-donnees-insertion-d-une-liste-deroulante)
+Obtenir un [exemple d'insertion d'attribut de type liste](cas_utilisation.md#utilisation-du-gestionnaire-de-source-de-donnees-insertion-d-une-liste-deroulante)
 
 
 #### 2.23.1. Liste simple
