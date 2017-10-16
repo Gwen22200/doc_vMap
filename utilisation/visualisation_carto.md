@@ -49,3 +49,20 @@ vMap :
 -   Un outil pour rafraichir les couches de la carte sans avoir à recharger l'application.
 -   Un outil pour recentrer la carte sur l'emprise par défaut définie par l'administrateur.
 -   Un outil de localisation par la saisie d'adresse. Par défaut l'outil fonctionne avec la couche Open Street Map. Si un objet métier est associé à un calque de la carte, un choix sera disponible entre plusieurs localisations.
+
+
+
+
+## 4.Accès direct à un objet spécifique
+Il est possible d'accéder directement à un objet spécifique directement via l'url, et en indiquant les paramètres suivants : 
+
+
+   - mode_id: l'identifiant du mode à afficher
+   - map_id: l'identifiant de la carte à afficher (récupérable dans la liste des cartes)
+   -  bo_id: identifiant de l'objet métier à interroger
+   -  ids: le ou les identifiants des entités à afficher
+   
+   
+
+
+
