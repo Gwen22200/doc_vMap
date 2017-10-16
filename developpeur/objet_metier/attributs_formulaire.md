@@ -251,4 +251,14 @@ Obtenir un [exemple d'insertion d'attribut de type lien](cas_utilisation.md#2-pe
 
 ### 2.23. Liste
 
+#### 2.23.1. Liste simple
+
+
+#### 2.23.2. Liste double
+
+
+#### 2.23.3. Liste déroulante
+
+
+
 ### 2.24. Texte
