@@ -185,6 +185,8 @@ Obtenir un [exemple d'insertion d'attribut de type Document](cas_utilisation.md#
 
 Un attribut de type Image - objet métier est un champ de chargement d'images.
 
+![](../../images/image.png)
+
 Nommer le paramètre et le libellé à afficher. 
 
 La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il doit être téléchargé. 
