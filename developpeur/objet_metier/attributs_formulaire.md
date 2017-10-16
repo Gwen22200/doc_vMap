@@ -189,9 +189,9 @@ Un attribut de type Image - objet métier est un champ de chargement d'images.
 
 Nommer le paramètre et le libellé à afficher. 
 
-La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il doit être téléchargé. 
+La boîte à cocher "Uniquement en consultation" indique si l'image est uniquement consultable ou si elle doit être téléchargée. 
 
-Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
+Un unique fichier peut être associé à un attribut. Il faut donc compresser les images en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
 Obtenir un [exemple d'insertion d'attribut de type Document/image](cas_utilisation.md#5-personnalisation-dun-formulaire--insertion-dun-champ-de-chargement-de-documentimage)
 
