@@ -260,6 +260,10 @@ Obtenir un [exemple d'insertion d'attribut de type liste](cas_utilisation.md#uti
 
 On entend par liste simple, une liste de choix dans laquelle l'utilisateur sélectionne un élément directement en cliquant parmi une des ocuurences de la liste : 
 
+![Attribut de type curseur](../../images/liste_simple.png)
+
+
+
 
 #### 2.23.2. Liste double
 
