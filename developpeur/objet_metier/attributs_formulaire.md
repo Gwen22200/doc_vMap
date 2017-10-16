@@ -175,7 +175,7 @@ Nommer le paramètre et le libellé à afficher.
 
 Définir le format des documents téléchargeables en indiquant leurs extensions possibles séparées par un |. 
 
-La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il peut être téléchargé. 
+La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il doit être téléchargé. 
 
  Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
@@ -186,6 +186,8 @@ Obtenir un [exemple d'insertion d'attribut de type Document](cas_utilisation.md#
 Un attribut de type Image - objet métier est un champ de chargement d'images.
 
 Nommer le paramètre et le libellé à afficher. 
+
+La boîte à cocher "Uniquement en consultation" indique si le document est uniquement consultable ou si il doit être téléchargé. 
 
 Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
