@@ -193,12 +193,18 @@ La boîte à cocher "Uniquement en consultation" indique si le document est uniq
 
 Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
+Obtenir un [exemple d'insertion d'attribut de type Document/image](cas_utilisation.md#5-personnalisation-dun-formulaire--insertion-dun-champ-de-chargement-de-documentimage)
+
 ### 2.12. Décimal
-Nommer l'attribut  et le libellé qui sera affiché dans le formulaire  et définir la valeur par défaut. Définir si ce paramètre est obligatoire ou pas en cochant la case Requis. 
+Nommer l'attribut et le libellé qui seront affichés dans le formulaire et définir la valeur par défaut. Définir si ce paramètre est obligatoire ou pas en cochant la case Requis. 
 
-### 2.13. Editeur de code CodeMirror
+### 2.13. Entier
+Nommer l'attribut et le libellé qui seront affichés dans le formulaire et définir la valeur par défaut. Définir si ce paramètre est obligatoire ou pas en cochant la case Requis. 
 
-### 2.14. Entier
+
+### 2.14. Editeur de code CodeMirror
+
+
 
 ### 2.15. Grille objet métier
 
@@ -217,7 +223,8 @@ Obtenir un  [exemple d'insertion d'attribut de type grille objet métier](cas_ut
 
 ### 2.18. Image URL
 
-Un attribut de type image URL permet d'insérer dans un formulaire un attribut de 
+Un attribut de type image URL permet d'afficher dans un formulaire l'url d'un image. Indiquer le libellé, l'attribut et l'url dans le champs valeur. 
+
 
 
 ### 2.19. Interface bouton
