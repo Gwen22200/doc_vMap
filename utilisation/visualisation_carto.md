@@ -54,13 +54,14 @@ vMap :
 
 
 ## 4. Accès direct à un objet spécifique
-Il est possible d'accéder directement à un objet spécifique directement via l'url, et en indiquant les paramètres suivants séparés par des & : 
+Il est possible d'accéder directement à un objet spécifique d'une carte directement via l'url, et en indiquant les paramètres suivants séparés par des & : 
 
 
    - mode_id: l'identifiant du mode à afficher
    - map_id: l'identifiant de la carte à afficher (récupérable dans la liste des cartes)
    - bo_id: identifiant de l'objet métier à interroger
    - ids: le ou les identifiants des entités à afficher
+   
    
  Exemple d'url : 
  https://demo.veremes.net/vmap/?mode_id=vmap&map_id=-1&bo_id=veremes_parcelles_visualisation&ids=66366000AB0003|66366000AB0007
