@@ -21,7 +21,7 @@ Le bouton Carte ![](../images/bouton_carte.png) permet de déployer :
 
 
 
-## 3.Volet carte : Outils d'affichage, de sélection, d'interrogation et de filtre 
+## 3. Volet carte : Outils d'affichage, de sélection, d'interrogation et de filtre 
 
 
 On retrouve dans la Fenêtre "Carte" l'ensemble des fonctionnalités
@@ -53,7 +53,7 @@ vMap :
 
 
 
-## 4.Accès direct à un objet spécifique
+## 4. Accès direct à un objet spécifique
 Il est possible d'accéder directement à un objet spécifique directement via l'url, et en indiquant les paramètres suivants séparés par des & : 
 
 
