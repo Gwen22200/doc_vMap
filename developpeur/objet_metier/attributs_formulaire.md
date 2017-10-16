@@ -251,9 +251,7 @@ Obtenir un [exemple d'insertion d'attribut de type lien](cas_utilisation.md#2-pe
 
 ### 2.23. Liste
 
-3 types de listes sont paramétrables dans vMap. Le gestionnaire de source de données permet une configuration fine des listes, de leurs sources et leurs modalités d'affichage. 
-
-Obtenir un [exemple d'insertion d'attribut de type liste](cas_utilisation.md#utilisation-du-gestionnaire-de-source-de-donnees-insertion-d-une-liste-deroulante)
+3 types de listes sont paramétrables dans vMap. Le gestionnaire de source de données permet une configuration fine des listes, de leurs sources et de leurs modalités d'affichage. 
 
 
 #### 2.23.1. Liste simple
@@ -266,13 +264,13 @@ Après avoir indiqué le libellé de l'objet et l'attribut à partir duquel il e
 
 #### 2.23.2. Liste double
 
-Une liste double permet d'afficher dans un formulaire les éléments d'une liste en deux blocs : 
+Une liste double permet d'afficher dans un formulaire les éléments d'une liste en deux blocs. 
 
 #### 2.23.3. Liste déroulante
 
+Un attribut de type liste déroulante permet d'afficher la liste de choix sous forme de liste déroulante. 
 
-
-
+Obtenir un [exemple d'insertion d'attribut de type liste](cas_utilisation.md#utilisation-du-gestionnaire-de-source-de-donnees-insertion-d-une-liste-deroulante)
 
 
 ### 2.24. Texte
