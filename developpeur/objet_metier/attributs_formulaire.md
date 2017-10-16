@@ -262,15 +262,20 @@ On entend par liste simple, une liste de choix dans laquelle l'utilisateur séle
 
 ![Attribut de type curseur](../../images/liste_simple.png)
 
-
 Après avoir indiqué le libellé de l'objet et l'attribut à partir duquel il est défini, sélectionner la source de données dans la liste ou cliquer sur le bouton Sources de données pour en ajouter. 
 
 #### 2.23.2. Liste double
 
+Une liste double permet d'afficher dans un formulaire les éléments d'une liste en deux blocs : 
 
 #### 2.23.3. Liste déroulante
 
 
 
+
+
+
 ### 2.24. Texte
  
+ 
+Nommer l'attribut et son libellé tel qu'il sera affiché dans le formulaire. Une expression régulière peut être définie pour containdre la saisie de ce champ, et une valeur pas défaut peut également être définie. 
