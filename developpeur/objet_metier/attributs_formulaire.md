@@ -181,6 +181,13 @@ La boîte à cocher "Uniquement en consultation" indique si le document est uniq
 
 Obtenir un [exemple d'insertion d'attribut de type Document](cas_utilisation.md#5-personnalisation-dun-formulaire--insertion-dun-champ-de-chargement-de-documentimage)
 
+### 2.11. Image Objet métier
+
+Un attribut de type Image - objet métier est un champ de chargement d'images.
+
+Nommer le paramètre et le libellé à afficher. 
+
+Un unique fichier peut être associé à un attribut. Il faut donc compresser les documents en un unique fichier zip pour pouvoir les associer à un même attribut. 
 
 ### 2.12. Décimal
 Nommer l'attribut  et le libellé qui sera affiché dans le formulaire  et définir la valeur par défaut. Définir si ce paramètre est obligatoire ou pas en cochant la case Requis. 
@@ -202,7 +209,7 @@ Obtenir un  [exemple d'insertion d'attribut de type grille objet métier](cas_ut
 
 ### 2.16. Grille section vitis
 
-### 2.17. Image Objet métier
+
 
 ### 2.18. Image URL
 
