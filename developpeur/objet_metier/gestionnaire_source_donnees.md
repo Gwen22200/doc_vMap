@@ -59,9 +59,9 @@ Définir :
 ### 2.1 Affichage de la liste
 
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
-- "*l'attribut*" qui est le nom de la  colonne sur laquelle porte le filtre
-- l' "*Opérateur*" 
-- la "*Valeur*" à utiliser pour définir la condition.
+- l'attribut qui est le nom de la  colonne sur laquelle porte le filtre
+- l'opérateur 
+- la Valeur à utiliser pour définir la condition.
 
 
 Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les multiples conditions sont de type "*AND*" ou "*OR*".
@@ -107,7 +107,7 @@ Après avoir défini quel est l'élément  parent, il faut définir le champ enf
 Les signes de comparaison sont : 
 
 - = Egalité parfaite entre le champ parent et le champ enfant
-- >  Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est supérieure à l'attribut de filtre parent. 
+- > Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est supérieure à l'attribut de filtre parent. 
 - > Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est inférieure à l'attribut de filtre parent. 
  
 **Attendre le parent **
