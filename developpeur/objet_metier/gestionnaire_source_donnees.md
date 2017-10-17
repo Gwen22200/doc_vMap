@@ -63,7 +63,7 @@ On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseig
 - la "*Valeur*" à utiliser pour définir la condition.
 
 
-Le bouton "*+*" permet l'ajout de conditions et on déterminer si les multiples conditions sont de type "*AND*" ou "*OR*".
+Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les multiples conditions sont de type "*AND*" ou "*OR*".
 
 
 **Important :** l'insertion de ce type de source de données (tables locales) utilise le token de connexion de l'utilisateur. Il faut donc faire attention à ce que **tous les utilisateurs susceptibles d'utiliser le formulaire aient des droits en consultation sur la table.**
