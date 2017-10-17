@@ -47,13 +47,16 @@ Définir le nom de la base de données, le schéma et la table.
 
 **Filtre l'affichage de la liste**
 
-On peut filtrer les enregistrements à afficher dans la liste. Pour cela il suffit de renseigner "*l'attribut*" qui est le
-nom de la  colonne su laquelle porte le filtre, l' "*Opérateur*" et la "*Valeur*" à utiliser pour définir la condition.
-Le bouton "*+*" permet l'ajout de conditions et on peut déterminer si les multiples  conditions sont de type "*AND*" ou "*OR*".
-**Important :** lors de son utilisation, ce genre de source de données
-utilise le token de connexion de l'utilisateur. Il faut donc faire
-attention à ce que **tous les utilisateurs susceptibles d'utiliser le
-formulaire aient des droits en consultation sur la table.**
+On peut filtrer les enregistrements à afficher dans la liste. Pour cela Renseigner : 
+- "*l'attribut*" qui est le nom de la  colonne su laquelle porte le filtre
+- l' "*Opérateur*" 
+- la "*Valeur*" à utiliser pour définir la condition.
+
+
+Le bouton "*+*" permet l'ajout de conditions et on déterminer si les multiples conditions sont de type "*AND*" ou "*OR*".
+
+
+**Important :** l'insertion de ce type de source de données (tables locales) utilise le token de connexion de l'utilisateur. Il faut donc faire attention à ce que **tous les utilisateurs susceptibles d'utiliser le formulaire aient des droits en consultation sur la table.**
 
 ![](../../images/exemple_studio_datasource_5.png)
 
