@@ -139,7 +139,7 @@ Il est également possible d'interroger directement un objet métier selon une d
 
 ![](../../images/exemple_studio_datasource_7.png)
 
-## 3.5. Source de données de type base de données externe
+## 5. Source de données de type base de données externe
 
 Plus complexe mais plus puissant, ce type de source permet d'interroger des bases de données d'un serveur externe selon un login et un mot de passe fourni.
 
