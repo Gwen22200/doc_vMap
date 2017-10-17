@@ -39,7 +39,7 @@ Le type texte permet de renseigner soi-même le contenu de la source de données
 Chaque entité est composée : 
 
 - d'une **clé** qui est la valeur retenue
-- d'un **libellé** qui est le contenu affiché. 
+- d'un **libellé** qui est le contenu affiché dans le formulaire. 
 
 Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opération autant de fois que d'occurrences, en retournant à la ligne pour chaque élément.
 
@@ -47,7 +47,7 @@ Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opérat
 
 ###  Source de données de type valeurs d'une table locale
 
-Ce type de source permet de récupérer directement en base de données installée sur le même serveur que vMap,  le contenu d'une table. 
+Ce type de source permet de récupérer directement en base de données le contenu d'une table. 
 Définir le nom de la base de données, le schéma et la table. 
 
 **Filtre l'affichage de la liste**
