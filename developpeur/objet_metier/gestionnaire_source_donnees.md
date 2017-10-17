@@ -83,14 +83,7 @@ Définir ensuite le libellé et la clé des occurences de la liste :
 
 ![](../../images/GSD_3.png)
 
-Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms seront affichés dans une liste. Le login de chaque tulisateuts est la valeur réélement utilisée. 
-
-![](../../images/exemple_studio_datasource_9.png)
-
-
-
-
-
+Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms (colonne name) seront affichés dans une liste ". La clé (colonne login) de chaque utilisateur est la valeur rééllement utilisée. 
 
 
 ### 3.3. Source de données de Type service web
