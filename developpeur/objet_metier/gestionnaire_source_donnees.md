@@ -47,7 +47,7 @@ Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opérat
 ![](../../images/exemple_studio_datasource_4.png)
 
 
-###  2. Source de données de type valeurs d'une table locale
+##  2. Source de données de type valeurs d'une table locale
 
 Ce type de source permet de récupérer directement en base de données le contenu d'une table. 
 Définir : 
@@ -140,7 +140,6 @@ Il est également possible d'interroger directement un objet métier selon une d
 ![](../../images/exemple_studio_datasource_7.png)
 
 ## 3.5. Source de données de type base de données externe
-
 
 Plus complexe mais plus puissant, ce type de source permet d'interroger des bases de données d'un serveur externe selon un login et un mot de passe fourni.
 
