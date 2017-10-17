@@ -28,7 +28,7 @@ Une fois une source de données définie dans le gestionnaire, on peut créer da
 type "*Liste*" et choisir la source de données créée précédemment. 
 
 
-### 3.1. Source de données de type texte
+###  Source de données de type texte
 
 Le type texte permet de renseigner soi-même le contenu de la source de données.
 
@@ -40,7 +40,21 @@ Chaque entité est composée d'une **clé** qui est la valeur retenue et d'un **
 
 ![](../../images/exemple_studio_datasource_4.png)
 
-### 3.2. Source de données de type valeurs d'une table locale
+###  Source de données de type valeurs d'une table locale
+
+Ce type de source permet de récupérer directement en base de données installée sur le même serveur que vMap,  le contenu d'une table. 
+Définir le nom de la base de données, le schéma et la table. 
+
+**Filtre l'affichage de la liste**
+On peut filtrer les enregistrements à afficher dans la liste. Pour cela il suffit de renseigner "*l'attribut*" qui est le
+nom de la  colonne su laquelle porte le filtre, l' "*Opérateur*" et la "*Valeur*" à utiliser pour définir la condition.
+Le bouton "*+*" permet l'ajout de conditions et on peut déterminer si les multiples  conditions sont de type "*AND*" ou "*OR*".
+**Important :** lors de son utilisation, ce genre de source de données
+utilise le token de connexion de l'utilisateur. Il faut donc faire
+attention à ce que **tous les utilisateurs susceptibles d'utiliser le
+formulaire aient des droits en consultation sur la table.**
+
+![](../../images/exemple_studio_datasource_5.png)
 
 
 **Clé et libellé**
@@ -52,22 +66,10 @@ Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la
 ![](../../images/exemple_studio_datasource_9.png)
 
 
-Ce type de source permet de récupérer directement en base de données, installé sur le même serveur que vMap,  le contenu d'une table. Définir le nom de la base de données, le schéma et la table. 
 
-On peut également ajouter une ou plusieurs conditions à l'aide de
-filtre. Pour cela il suffit de renseigner une "*Valeur Clé*" qui est un
-nom de colonne de la table, un "*Opérateur*" dans le liste fournie et
-une "*Valeur*" qui correspond à la valeur à utiliser pour la condition.
-Le bouton "*+*" permettra d'ajouter des conditions et on peut également
-décider si les conditions sont de type "*AND*" ou "*OR*" grâce à une
-liste déroulante.
 
-**Important :** lors de son utilisation, ce genre de source de données
-utilise le token de connexion de l'utilisateur. Il faut donc faire
-attention à ce que **tous les utilisateurs susceptibles d'utiliser le
-formulaire aient des droits en consultation sur la table.**
 
-![](../../images/exemple_studio_datasource_5.png)
+
 
 ### 3.3. Source de données de Type service web
 
