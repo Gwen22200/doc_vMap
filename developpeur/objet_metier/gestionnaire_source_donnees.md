@@ -25,9 +25,11 @@ Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le
 
 
 Une fois une source de données définie dans le gestionnaire, on peut créer dans le studio,  un attribut de
-type "*Liste*" et choisir la source de données mise en place précédemment. 
+type "*Liste*" et choisir la source de données créée précédemment. 
 
-Une liste est définie par une "*Clé*" qui est la valeur retournée lorsqu'on sélectionne un élément de la liste et d'un "*Libellé*" qui estce que l'utilisateur voit dans la liste dans le formulaire. 
+**Clé et libellé : **
+
+Une liste est définie par une "*Clé*" qui est la valeur retournée lors de la sélection un élément de la liste et d'un "*Libellé*" qui est ce que l'utilisateur voit dans le formulaire. 
 
 Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la lampe en édition. Chaque route est définie par un identifiant numérique (route_id) et elle possède un nom textuel (nom) : on sélectionne "*nom*" en tant que libellé et "*route_id*" en tant que clé.
 
