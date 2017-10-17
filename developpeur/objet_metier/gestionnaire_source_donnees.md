@@ -89,13 +89,10 @@ Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire l
 
 ### 3. Source de données de Type service web
 
-Parfois, le type "*Valeurs d'une table locale*" ne suffit pas car on
-veut utiliser une ressource d'un service web précédemment créé, afin
-d'effectuer des requêtes complexes. On peut aussi souhaiter se servir
-d'un services de l'application.
+On put exploiter une ressource d'un service web précédemment créé, afin
+d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
 
-Pour cela, on utilise le type "*Service web*" qui effectue une requête
-de type "*GET*" à la ressource en question.
+Le type de source "*Service web*" effectue une requête de type "*GET*" à la ressource sélectionnée.
 
 ![](../../images/exemple_studio_datasource_6.png)
 
