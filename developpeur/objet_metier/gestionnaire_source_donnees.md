@@ -73,14 +73,17 @@ Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les mult
 
 **Clé et libellé**
 
-Dans le studio, définir la clé et le libellé à afficher dans le formulaire. 
-L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et le "*Libellé*" est ce qui est affiché dans le formulaire. 
+Dans le studio, définir l'attribut et son libellé  à afficher dans le formulaire. 
+
+Puis sélectionner la source de données précédemment créée dans le Gestionnaire de source de données. 
+
+Définir ensuite le libellé et la clé des occurences de la liste : 
 
 
 
-![](../../images/studio_liste_table_locale.png)
+![](../../images/GSD_3.png)
 
-Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la lampe en édition. Chaque route est définie par un identifiant numérique (route_id) et elle possède un nom textuel (nom) : on sélectionne "*nom*" en tant que libellé et "*route_id*" en tant qu'attribut.
+Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms seront affichés dans une liste. Le login de chaque tulisateuts est la valeur réélement utilisée. 
 
 ![](../../images/exemple_studio_datasource_9.png)
 
