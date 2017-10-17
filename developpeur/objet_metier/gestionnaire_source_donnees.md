@@ -1,4 +1,4 @@
-##Le Gestionnaire de source de données
+#Le Gestionnaire de source de données
 
 Le gestionnaire de sources de données permet la création, l'édition et
 la suppression de sources de données à associer à des attributs de type:
