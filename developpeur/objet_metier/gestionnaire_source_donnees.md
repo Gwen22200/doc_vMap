@@ -29,7 +29,7 @@ Une fois une source de données définie dans le gestionnaire, on peut créer da
 type "*Liste*" et choisir la source de données créée précédemment. 
 
 
-###  Source de données de type texte
+###  1. Source de données de type texte
 
 Le type texte permet de renseigner soi-même le contenu de la source de données.
 
@@ -47,7 +47,7 @@ Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opérat
 ![](../../images/exemple_studio_datasource_4.png)
 
 
-###  Source de données de type valeurs d'une table locale
+###  2. Source de données de type valeurs d'une table locale
 
 Ce type de source permet de récupérer directement en base de données le contenu d'une table. 
 Définir : 
@@ -87,7 +87,7 @@ Définir ensuite le libellé et la clé des occurences de la liste :
 Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms (colonne name) seront affichés dans une liste ". La clé (colonne login) de chaque utilisateur est la valeur rééllement utilisée. 
 
 
-### 3.3. Source de données de Type service web
+### 3. Source de données de Type service web
 
 Parfois, le type "*Valeurs d'une table locale*" ne suffit pas car on
 veut utiliser une ressource d'un service web précédemment créé, afin
