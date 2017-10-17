@@ -74,7 +74,9 @@ Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les mult
 **Clé et libellé**
 
 Dans le studio, définir la clé et le libellé à afficher dans le formulaire. 
-L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et d'un "*Libellé*" est ce qui est affiché dans le formulaire. 
+L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et le "*Libellé*" est ce qui est affiché dans le formulaire. 
+
+
 
 ![](../../images/studio_liste_table_locale.png)
 
