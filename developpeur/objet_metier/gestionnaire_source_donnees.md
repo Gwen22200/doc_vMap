@@ -86,6 +86,18 @@ Définir ensuite le libellé et la clé des occurences de la liste :
 
 Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms (colonne name) seront affichés dans une liste ". La clé (colonne login) de chaque utilisateur est la valeur rééllement utilisée. 
 
+**Options avancées = affiner l'affichage des listes**
+
+Il est possible d'affiner l'affichage des éléments de la liste via les commandes : 
+
+- commandes de tri (order_by et sort_order) sur les attributs dont on spécifie les noms dans le champs Attributs. Ils doivent êtres séparés par le caractère |. 
+
+- clause distinct pour distinguer les valeurs identiques. 
+
+- filtre pour  iltrer les valeurs à afficher via une clause Where dont on spécifie les arguments dans le champ ' filter'. 
+
+
+
 
 ### 3. Source de données de Type service web
 
