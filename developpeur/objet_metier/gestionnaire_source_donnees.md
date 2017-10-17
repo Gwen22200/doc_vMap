@@ -73,7 +73,10 @@ Le bouton "*+*" permet l'ajout de conditions et on déterminer si les multiples 
 
 **Clé et libellé**
 
+Dans le studio, définir la clé et le libellé à afficher dans le formulaire. 
 L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et d'un "*Libellé*" est ce qui est affiché dans le formulaire. 
+
+![](../../images/studio_liste_table_locale.png)
 
 Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la lampe en édition. Chaque route est définie par un identifiant numérique (route_id) et elle possède un nom textuel (nom) : on sélectionne "*nom*" en tant que libellé et "*route_id*" en tant qu'attribut.
 
