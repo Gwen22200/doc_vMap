@@ -251,7 +251,8 @@ Obtenir un [exemple d'insertion d'attribut de type lien](cas_utilisation.md#2-pe
 
 ### 2.23. Liste
 
-3 types de listes sont paramétrables dans vMap. Le gestionnaire de source de données permet une configuration fine des listes, de leurs sources et de leurs modalités d'affichage. 
+3 types de listes sont paramétrables dans vMap. Le [gestionnaire de source de données](gestionnaire_source_donnees.md) permet une configuration fine des listes, de leurs sources et de leurs modalités d'affichage. 
+
 
 
 #### 2.23.1. Liste simple
