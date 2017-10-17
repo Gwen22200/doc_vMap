@@ -68,7 +68,7 @@ Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les mult
 
 **Important :** l'insertion de ce type de source de données (tables locales) utilise le token de connexion de l'utilisateur. Il faut donc faire attention à ce que **tous les utilisateurs susceptibles d'utiliser le formulaire aient des droits en consultation sur la table.**
 
-![](../../images/exemple_studio_datasource_5.png)
+![](../../images/GSD_2.png)
 
 
 **Clé et libellé**
