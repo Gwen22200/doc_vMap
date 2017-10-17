@@ -56,7 +56,7 @@ Définir :
 - le schéma
 - la table
 
-### 2.1 ffichage de la liste
+### 2.1 Affichage de la liste
 
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
 - "*l'attribut*" qui est le nom de la  colonne sur laquelle porte le filtre
@@ -94,7 +94,7 @@ Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire l
 
 - clause distinct pour distinguer les valeurs identiques. 
 
-- filtre pour  iltrer les valeurs à afficher via une clause Where dont on spécifie les arguments dans le champ ' filter'. 
+- filtre pour  filtrer les valeurs à afficher via une clause Where dont on spécifie les arguments dans le champ ' filter'. 
 
 
 
