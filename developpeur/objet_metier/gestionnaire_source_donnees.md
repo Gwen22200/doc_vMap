@@ -46,6 +46,7 @@ Ce type de source permet de récupérer directement en base de données install�
 Définir le nom de la base de données, le schéma et la table. 
 
 **Filtre l'affichage de la liste**
+
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela il suffit de renseigner "*l'attribut*" qui est le
 nom de la  colonne su laquelle porte le filtre, l' "*Opérateur*" et la "*Valeur*" à utiliser pour définir la condition.
 Le bouton "*+*" permet l'ajout de conditions et on peut déterminer si les multiples  conditions sont de type "*AND*" ou "*OR*".
