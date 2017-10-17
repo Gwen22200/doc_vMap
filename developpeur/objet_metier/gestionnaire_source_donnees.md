@@ -24,6 +24,8 @@ Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le
 ![](../../images/GSD_1.png)
 
 
+
+
 Une fois une source de données définie dans le gestionnaire, on peut créer dans le studio,  un attribut de
 type "*Liste*" et choisir la source de données créée précédemment. 
 
