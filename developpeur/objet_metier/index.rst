@@ -14,4 +14,5 @@ Les objets métiers dans Vmap permettent l'interrogation et l'édition des objet
  objet_metier
  rapports_vmap
  attributs_formulaire
+ gestionnaire_source_donnees
  cas_utilisation
