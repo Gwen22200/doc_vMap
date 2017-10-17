@@ -98,6 +98,22 @@ Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire l
 
 ### 2.4 Listes en cascade
 
+On peut choisir d'afficher une liste dont le contenu varie en fonction des valeurs sélectionnées dans une autre  liste. L'option Cascade permet le paramétrage de telles listes en spécifiant l'attrobut parent et l'attribut enfant sur lequel effectuer le filtre d'affichage.
+ 
+**Attributs de filtrage et Signe de comparaison** 
+
+Après avoir défini quel est l'élément  parent, il faut définir le champ enfant sur lequel repose l'ascendance ainsi que le signe de comparaison sur lequel doit reposer la comparaison entre les champs liant la table parent à la table enfant. 
+
+Les signes de comparaison sont : 
+
+- = Egalité parfaite entre le champ parent et le champ enfant
+- >  Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est supérieure à l'attribut de filtre parent. 
+- > Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est inférieure à l'attribut de filtre parent. 
+ 
+**Attendre le parent **
+
+Pour forcer l'affichage de la liste des éléments enfants uniquement lorsqu'un élément parent est sélectionné, il faut cocher la case 'Attendre le parent'. Ainsi, si aucun élément parent n'est sélectionné, aucun élément enfant n'apparaîtra dans la liste. 
+ 
 
 
 
