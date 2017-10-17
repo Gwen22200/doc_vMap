@@ -55,7 +55,7 @@ Définir :
 - le schéma
 - la table
 
-**Filtre l'affichage de la liste**
+**Filtrer l'affichage de la liste**
 
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
 - "*l'attribut*" qui est le nom de la  colonne su laquelle porte le filtre
