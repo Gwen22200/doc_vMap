@@ -22,7 +22,7 @@ Le gestionnaire de sources de données permet d'exploiter des données :
 Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le gestionnaire de source de données.
 
 
-![](../../images/exemple_studio_datasource_3.png)
+
 
 Une fois la source de données renseignée, on peut créer un attribut de
 type "*Liste*" et choisir la source de données mise en place précédemment. 
