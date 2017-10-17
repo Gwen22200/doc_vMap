@@ -1,7 +1,7 @@
-#Le Gestionnaire de source de données
+# Le Gestionnaire de source de données
 
-Le gestionnaire de sources de données permet la création, l'édition et
-la suppression de sources de données à associer à des attributs de type:
+
+Le gestionnaire de sources de données permet la création, l'édition et la suppression de sources de données à associer à des attributs de type :
 
 -   liste
 -   liste déroulante
@@ -20,11 +20,8 @@ Le gestionnaire de sources de données permet d'exploiter des données :
 
 ![](../../images/exemple_studio_datasource_1.png)
 
-Le bouton **Sources de données**, en bas à droite du studio permet
-d'ouvrir le gestionnaire de source de données.
+Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le gestionnaire de source de données.
 
-On peut utiliser le bouton *"+"* pour ajouter des nouveaux filtres et le
-bouton *"Test"* pour tester la source de données.
 
 ![](../../images/exemple_studio_datasource_3.png)
 
