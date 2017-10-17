@@ -29,7 +29,7 @@ Une fois une source de données définie dans le gestionnaire, on peut créer da
 type "*Liste*" et choisir la source de données créée précédemment. 
 
 
-###  1. Source de données de type texte
+##  1. Source de données de type texte
 
 Le type texte permet de renseigner soi-même le contenu de la source de données.
 
@@ -96,10 +96,12 @@ Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire l
 
 - filtre pour  filtrer les valeurs à afficher via une clause Where dont on spécifie les arguments dans le champ ' filter'. 
 
+### 2.4 Listes en cascade
 
 
 
-### 3. Source de données de Type service web
+
+## 3. Source de données de Type service web
 
 On peut exploiter une ressource d'un service web précédemment créé, afin
 d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
