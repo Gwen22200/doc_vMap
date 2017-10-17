@@ -144,7 +144,7 @@ Il est également possible d'interroger directement un objet métier selon une d
 Plus complexe mais plus puissant, ce type de source permet d'interroger des bases de données d'un serveur externe selon un login et un mot de passe fourni.
 
 
-Après avoir saisi le nom de la nouvelle source de données, saisir les paramètres de connexion à la base de données (serveur, port, sgbd, login, mot de passe et tables). Le bouton 'Tabmes' permet d'afficher la liste des tables de la base et de la sorte de s'assurer de la réussite de la connexion. 
+Après avoir saisi le nom de la nouvelle source de données, saisir les paramètres de connexion à la base de données (serveur, port, sgbd, login, mot de passe et tables). Le bouton 'Tables' permet d'afficher la liste des tables de la base et de la sorte de s'assurer de la réussite de la connexion. 
 
 Il est également possible de filtrer les données à importer via une clause de type Where, saisie dans le champs Filtre.
 Dans l'exemple ci-dessus, seuls les ESI en instruction et inscrits seront listés dans le formulaire. 
