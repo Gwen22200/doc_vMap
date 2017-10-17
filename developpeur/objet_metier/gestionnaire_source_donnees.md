@@ -36,7 +36,11 @@ Le type texte permet de renseigner soi-même le contenu de la source de données
     libellé 2|clé 2
     libellé 3|clé 3
 
-Chaque entité est composée d'une **clé** qui est la valeur retenue et d'un **libellé** qui est le contenu affiché. Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opération autant de fois que d'occurrences, en retournant à la ligne pour chaque élément.
+Chaque entité est composée : 
+- d'une **clé** qui est la valeur retenue
+- d'un **libellé** qui est le contenu affiché. 
+
+Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opération autant de fois que d'occurrences, en retournant à la ligne pour chaque élément.
 
 ![](../../images/exemple_studio_datasource_4.png)
 
