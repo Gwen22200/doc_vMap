@@ -18,7 +18,6 @@ Le gestionnaire de sources de données permet d'exploiter des données :
     récupérer les ressources
 -   Objet métier : permet d'exploiter un objet métier déjà configuré
 
-![](../../images/exemple_studio_datasource_1.png)
 
 Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le gestionnaire de source de données.
 
