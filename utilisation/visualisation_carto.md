@@ -53,8 +53,8 @@ vMap :
 
 
 
-## 4. Accès direct à un objet spécifique
-Il est possible de visualiser un objet spécifique d'une carte directement via l'url, et en indiquant les paramètres suivants séparés par des &. . 
+## 4. Accès direct : visualisation d'objet spécifique
+Il est possible de visualiser un objet spécifique d'une carte en indiquant dans l'url, les paramètres suivants séparés par des &. 
 
    - mode_id: l'identifiant du mode à afficher
    - map_id: l'identifiant de la carte à afficher (récupérable dans la liste des cartes)
