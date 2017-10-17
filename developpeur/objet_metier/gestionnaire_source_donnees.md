@@ -106,9 +106,9 @@ Après avoir défini quel est l'élément  parent, il faut définir le champ enf
 
 Les signes de comparaison sont : 
 
--= Egalité parfaite entre le champ parent et le champ enfant
-->  Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est supérieure à l'attribut de filtre parent. 
--> Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est inférieure à l'attribut de filtre parent. 
+- = Egalité parfaite entre le champ parent et le champ enfant
+- >  Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est supérieure à l'attribut de filtre parent. 
+- > Ne seront affichés dans la liste enfant que les enregistrements dont la valeur est inférieure à l'attribut de filtre parent. 
  
 **Attendre le parent **
 
@@ -119,18 +119,16 @@ Pour forcer l'affichage de la liste des éléments enfants uniquement lorsqu'un 
 
 ## 3. Source de données de Type service web
 
-On peut exploiter une ressource d'un service web précédemment créé, afin
-d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
+On peut exploiter une ressource d'un service web précédemment créé, afin d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
 
 Le type de source "*Service web*" effectue une requête de type "*GET*" à la ressource sélectionnée.
 
 ![](../../images/exemple_studio_datasource_6.png)
 
 
-### 4. Source de données de type objet métier
+## 4. Source de données de type objet métier
 
-Il est également possible d'interroger directement un objet métier selon
-une des trois solutions suivantes :
+Il est également possible d'interroger directement un objet métier selon une des trois solutions suivantes :
 
 -   **Form :** renvoie l’ensemble des colonnes de la table associée à
     l'objet métier
@@ -141,14 +139,23 @@ une des trois solutions suivantes :
 
 ![](../../images/exemple_studio_datasource_7.png)
 
-### 3.5. Source de données de type base de données externe
+## 3.5. Source de données de type base de données externe
 
-Plus complexe mais plus puissant, ce type de source permet d'interroger
-des bases de données d'un serveur externe selon un login et un mot de
-passe fourni.
 
-**Important : les login et mot de passe renseignés doivent être
-publics** car les utilisateurs finaux pourraient avoir accès à cette
+Plus complexe mais plus puissant, ce type de source permet d'interroger des bases de données d'un serveur externe selon un login et un mot de passe fourni.
+
+
+Après avoir saisi le nom de la nouvelle source de données, saisir les paramètres de connexion à la base de données (serveur, port, sgbd, login, mot de passe et tables). Le bouton 'Tabmes' permet d'afficher la liste des tables de la base et de la sorte de s'assurer de la réussite de la connexion. 
+
+Il est également possible de filtrer les données à importer via une clause de type Where, saisie dans le champs Filtre.
+Dans l'exemple ci-dessus, seuls les ESI en instruction et inscrits seront listés dans le formulaire. 
+ 
+Le bouton 'Valider' permet de fermer la fenêtre en cours et revenir à liste des sources de données. 
+Cliquer, à nouveau, sur Valider pour fermer le gestionnaire de source de données et revenir au studio. 
+
+
+
+**Important : les login et mot de passe renseignés doivent être publics** car les utilisateurs finaux pourraient avoir accès à cette
 information.
 
 ![](../../images/exemple_studio_datasource_8.png)
