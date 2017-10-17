@@ -54,7 +54,7 @@ vMap :
 
 
 ## 4. Accès direct à un objet spécifique
-Il est possible de visualiser un objet spécifique d'une carte directement via l'url, et en indiquant les paramètres suivants séparés par des & : 
+Il est possible de visualiser un objet spécifique d'une carte directement via l'url, et en indiquant les paramètres suivants séparés par des &. Un zoom est effectué sur l'objet défini en paramètre de l'url et ce dernier est centré sur la carte qui s'affiche. 
 
 
    - mode_id: l'identifiant du mode à afficher
