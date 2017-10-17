@@ -37,6 +37,7 @@ Le type texte permet de renseigner soi-même le contenu de la source de données
     libellé 3|clé 3
 
 Chaque entité est composée : 
+
 - d'une **clé** qui est la valeur retenue
 - d'un **libellé** qui est le contenu affiché. 
 
@@ -51,7 +52,7 @@ Définir le nom de la base de données, le schéma et la table.
 
 **Filtre l'affichage de la liste**
 
-On peut filtrer les enregistrements à afficher dans la liste. Pour cela Renseigner : 
+On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
 - "*l'attribut*" qui est le nom de la  colonne su laquelle porte le filtre
 - l' "*Opérateur*" 
 - la "*Valeur*" à utiliser pour définir la condition.
