@@ -117,7 +117,7 @@ Pour forcer l'affichage de la liste des éléments enfants uniquement lorsqu'un 
 
 
 
-## 3. Source de données de Type service web
+## 3. Source de données de type service web
 
 On peut exploiter une ressource d'un service web précédemment créé, afin d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
 
