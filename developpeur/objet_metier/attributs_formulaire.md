@@ -264,7 +264,7 @@ Après avoir indiqué le libellé de l'objet et l'attribut à partir duquel il e
 
 #### 2.23.2. Liste double
 
-Une liste double permet d'afficher dans un formulaire les éléments d'une liste en deux blocs. 
+Une liste double permet d'afficher dans un formulaire les éléments d'une liste répartis en deux blocs : les éléments disponibles en sélection et les éléments sélectionnés. 
 
 #### 2.23.3. Liste déroulante
 
