@@ -58,7 +58,7 @@ Définir :
 **Filtrer l'affichage de la liste**
 
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
-- "*l'attribut*" qui est le nom de la  colonne su laquelle porte le filtre
+- "*l'attribut*" qui est le nom de la  colonne sur laquelle porte le filtre
 - l' "*Opérateur*" 
 - la "*Valeur*" à utiliser pour définir la condition.
 
