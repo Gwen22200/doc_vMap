@@ -24,18 +24,9 @@ Le bouton **Sources de données**, en bas à droite du studio permet d'ouvrir le
 ![](../../images/GSD_1.png)
 
 
-
-
 Une fois une source de données définie dans le gestionnaire, on peut créer dans le studio,  un attribut de
 type "*Liste*" et choisir la source de données créée précédemment. 
 
-**Clé et attribut**
-
-L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et d'un "*Libellé*" est ce qui est affiché dans le formulaire. 
-
-Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la lampe en édition. Chaque route est définie par un identifiant numérique (route_id) et elle possède un nom textuel (nom) : on sélectionne "*nom*" en tant que libellé et "*route_id*" en tant qu'attribut.
-
-![](../../images/exemple_studio_datasource_9.png)
 
 ### 3.1. Source de données de type texte
 
@@ -50,6 +41,16 @@ Chaque entité est composée d'une **clé** qui est la valeur retenue et d'un **
 ![](../../images/exemple_studio_datasource_4.png)
 
 ### 3.2. Source de données de type valeurs d'une table locale
+
+
+**Clé et libellé**
+
+L'attribut est la valeur retournée lors de la sélection d'un élément de la liste et d'un "*Libellé*" est ce qui est affiché dans le formulaire. 
+
+Dans l'exemple ci-dessous, on souhaite sélectionner une route à associer à la lampe en édition. Chaque route est définie par un identifiant numérique (route_id) et elle possède un nom textuel (nom) : on sélectionne "*nom*" en tant que libellé et "*route_id*" en tant qu'attribut.
+
+![](../../images/exemple_studio_datasource_9.png)
+
 
 Ce type de source permet de récupérer directement en base de données, installé sur le même serveur que vMap,  le contenu d'une table. Définir le nom de la base de données, le schéma et la table. 
 
