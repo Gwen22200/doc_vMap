@@ -56,7 +56,7 @@ Définir :
 - le schéma
 - la table
 
-**Filtrer l'affichage de la liste**
+### 2.1 ffichage de la liste
 
 On peut filtrer les enregistrements à afficher dans la liste. Pour cela renseigner : 
 - "*l'attribut*" qui est le nom de la  colonne sur laquelle porte le filtre
@@ -72,7 +72,7 @@ Le bouton "*+*" permet l'ajout de conditions et on  peut déterminer si les mult
 ![](../../images/GSD_2.png)
 
 
-**Clé et libellé**
+### 2.2 Clé et libellé
 
 Dans le studio, définir l'attribut et son libellé  à afficher dans le formulaire. 
 
@@ -86,9 +86,9 @@ Définir ensuite le libellé et la clé des occurences de la liste :
 
 Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire les utilisateurs dont les noms (colonne name) seront affichés dans une liste ". La clé (colonne login) de chaque utilisateur est la valeur rééllement utilisée. 
 
-**Options avancées = affiner l'affichage des listes**
+### 2.3 Options avancées = affiner l'affichage des listes
 
-Il est possible d'affiner l'affichage des éléments de la liste via les commandes : 
+ Il est possible d'affiner l'affichage des éléments de la liste via les commandes : 
 
 - commandes de tri (order_by et sort_order) sur les attributs dont on spécifie les noms dans le champs Attributs. Ils doivent êtres séparés par le caractère |. 
 
