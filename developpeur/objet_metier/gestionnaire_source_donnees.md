@@ -89,14 +89,15 @@ Dans l'exemple ci-dessus, on souhaite pouvoir sélectionner dans le formulaire l
 
 ### 3. Source de données de Type service web
 
-On put exploiter une ressource d'un service web précédemment créé, afin
+On peut exploiter une ressource d'un service web précédemment créé, afin
 d'effectuer des requêtes complexes. On peut également se servir d'un services de l'application.
 
 Le type de source "*Service web*" effectue une requête de type "*GET*" à la ressource sélectionnée.
 
 ![](../../images/exemple_studio_datasource_6.png)
 
-### 3.4. Source de données de type objet métier
+
+### 4. Source de données de type objet métier
 
 Il est également possible d'interroger directement un objet métier selon
 une des trois solutions suivantes :
