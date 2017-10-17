@@ -45,10 +45,15 @@ Les deux sont séparés (sans espace) par le caractère "|". Répéter l'opérat
 
 ![](../../images/exemple_studio_datasource_4.png)
 
+
 ###  Source de données de type valeurs d'une table locale
 
 Ce type de source permet de récupérer directement en base de données le contenu d'une table. 
-Définir le nom de la base de données, le schéma et la table. 
+Définir : 
+
+- le nom de la base de données
+- le schéma
+- la table
 
 **Filtre l'affichage de la liste**
 
