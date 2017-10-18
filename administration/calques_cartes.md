@@ -25,4 +25,4 @@ Le mode Calques et cartes est organisé en 5 onglets :
 
 
 
-## thèmes des cartes
+## Thèmes des cartes
