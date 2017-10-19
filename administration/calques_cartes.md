@@ -30,7 +30,9 @@ Type de services disponibles :
 - WMTS : Web Map Tile Service
 - XYZ 
 
-![](../../images/service_creation.png)
+![](../../images/services_creation.png)
+
+
 
 
 
