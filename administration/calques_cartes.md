@@ -36,6 +36,9 @@ Type de services disponibles :
 Après avoir sélectionné le type de flux à exploiter, nommer le service, le décrire et lui associer le lien du flux . Indiquer le version du protocole ainsi que les identifiants de connexion au service. 
 
 
+Une fois testé, cliquer sur Créer pour confirmer la création du service.
+
+
 
 ## Gestion des calques 
 
