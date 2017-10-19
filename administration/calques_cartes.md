@@ -16,7 +16,10 @@ Le mode Calques et cartes est organisé en 5 onglets :
 
 L'onglet Services permet la création, l'édition et la suppression de service. 
 
-Dans vMap, un service correspond à l'utilisation d'un flux public ou d'un flux WMS prélablement ajouté dans le mode MapServer.
+Un service vMap est le nom donné pour représenter l'URL d'un flux. 
+Un flux peut être privé ou public. 
+
+L'utilisation d'un service dans vMap correspond à l'utilisation d'un flux public ou d'un flux WMS prélablement ajouté dans le mode MapServer.
 
 Type de services disponibles : 
 
@@ -28,15 +31,18 @@ Type de services disponibles :
 - XYZ 
 
 
-
 Après avoir sélectionné le type de flux à exploiter, nommer le service, le décrire et lui associer le lien du flux . Indiquer le version du protocole ainsi que les identifiants de connexion au service. 
 
 
 
 ## Gestion des calques 
 
+Dans vMap, un calque est un ensemble de couches provenant d'unseul et même service vMap. 
 
 ## Gestion des cartes 
+
+Dans vMap une carte est un ensemble de calques issues de un ou plusieurs services WMS. 
+
 
 
 ## Thèmes des calques 
