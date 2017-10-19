@@ -42,7 +42,7 @@ Une fois testé, cliquer sur Créer pour confirmer la création du service.
 
 ## Gestion des calques 
 
-Dans vMap, un calque est un ensemble de couches provenant d'unseul et même service vMap. 
+Dans vMap, un calque est un ensemble de couches provenant d'un seul et même service vMap. 
 
 ## Gestion des cartes 
 
