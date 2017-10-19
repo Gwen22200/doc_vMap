@@ -27,7 +27,7 @@ Type de services disponibles :
 - WMS - mutli tuilage  
 - Bing Maps 
 - OSM
-- WMTS : Web Map Tile Service
+- WMTS 
 - XYZ 
 
 ![](../../images/services_creation.png)
